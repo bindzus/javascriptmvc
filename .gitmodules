@@ -1,0 +1,15 @@
+[submodule "public/documentjs"]
+	path = public/documentjs
+	url = git@github.com:bindzus/documentjs
+[submodule "public/jquery"]
+	path = public/jquery
+	url = git@github.com:bindzus/jquerymx
+[submodule "public/steal"]
+	path = public/steal
+	url = git@github.com:bindzus/steal
+[submodule "public/funcunit"]
+	path = public/funcunit
+	url = git@github.com:bindzus/funcunit
+[submodule "public/viewer"]
+	path = public/viewer
+	url = git@github.com:bindzus/viewer
